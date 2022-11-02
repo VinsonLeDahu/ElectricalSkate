@@ -1,5 +1,6 @@
-# Prerequisites
-*.d
+# Fitnesse files
+*.wiki
+*.zip
 
 # Object files
 *.o

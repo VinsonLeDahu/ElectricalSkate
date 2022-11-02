@@ -1,0 +1,5 @@
+!startuml
+agent plantuml
+agent fitnesse
+fitnesse -> plantuml : generate
+!enduml

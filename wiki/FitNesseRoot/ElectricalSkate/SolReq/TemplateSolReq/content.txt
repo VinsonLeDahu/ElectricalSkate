@@ -1,0 +1,7 @@
+!2 Traceability
+!* System Requirement
+[[Requirement][.ElectricalSkate.RemoteControler.SysReq]]
+*!
+----
+[[!style_green[Definition]][.ElectricalSkate.DefinitioN]]
+[[!style_red[Data]][.ElectricalSkate.DatA]]

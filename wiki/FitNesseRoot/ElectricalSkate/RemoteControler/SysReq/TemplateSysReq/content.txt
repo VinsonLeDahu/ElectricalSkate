@@ -1,0 +1,10 @@
+!2 Traceability
+!* Solution Requirement
+[[Requirement][.ElectricalSkate.SolReq]]
+*!
+!* High Level Requirement
+[[Requirement][.ElectricalSkate.RemoteControler.HlR]]
+*!
+----
+[[!style_green[Definition]][.ElectricalSkate.DefinitioN]]
+[[!style_red[Data]][.ElectricalSkate.DatA]]

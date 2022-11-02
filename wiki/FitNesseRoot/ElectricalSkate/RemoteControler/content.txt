@@ -1,0 +1,22 @@
+!1 !-Remote Controler-!
+
+!* Architechture
+!include -seamless <ElectricalSkate.RemoteControler.ArchI
+*!
+!* Requirements
+[[System Requirements][.ElectricalSkate.RemoteControler.SysReq]]
+[[High Level Requirements][.ElectricalSkate.RemoteControler.HlR]]
+[[Low Level Requirements][.ElectricalSkate.RemoteControler.LlR]]
+*!
+!* Test
+[[High Level Test][.ElectricalSkate.RemoteControler.HlT]]
+[[Low Level Test][.ElectricalSkate.RemoteControler.LlT]]
+*!
+!* Code
+[[Code][.ElectricalSkate.RemoteControler.CodE]]
+*!
+!* Variable
+[[Definition][.ElectricalSkate.DefinitioN.RemoteControler]]
+[[Data][.ElectricalSkate.DatA.RemoteControler]]
+*!
+!contents

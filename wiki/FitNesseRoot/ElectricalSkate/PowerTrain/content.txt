@@ -1,0 +1,22 @@
+!1 !-Remote Controler-!
+
+!* Architechture
+!include -seamless <ElectricalSkate.PowerTrain.ArchI
+*!
+!* Requirements
+[[System Requirements][.ElectricalSkate.PowerTrain.SysReq]]
+[[High Level Requirements][.ElectricalSkate.PowerTrain.HlR]]
+[[Low Level Requirements][.ElectricalSkate.PowerTrain.LlR]]
+*!
+!* Test
+[[High Level Test][.ElectricalSkate.PowerTrain.HlT]]
+[[Low Level Test][.ElectricalSkate.PowerTrain.LlT]]
+*!
+!* Code
+[[Code][.ElectricalSkate.PowerTrain.CodE]]
+*!
+!* Variable
+[[Definition][.ElectricalSkate.DefinitioN.PowerTrain]]
+[[Data][.ElectricalSkate.DatA.PowerTrain]]
+*!
+!contents

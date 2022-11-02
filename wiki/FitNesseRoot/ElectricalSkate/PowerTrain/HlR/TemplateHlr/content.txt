@@ -1,0 +1,13 @@
+!2 Traceability
+!* System Requirement
+[[Requirement][.ElectricalSkate.RemoteControler.SysReq]]
+*!
+!* Low Level Requirement
+[[Requirement][.ElectricalSkate.RemoteControler.LlR]]
+*!
+!* High Level Test
+[[Test][.ElectricalSkate.RemoteControler.HlT]]
+*!
+----
+[[!style_green[Definition]][.ElectricalSkate.DefinitioN]]
+[[!style_red[Data]][.ElectricalSkate.DatA]]

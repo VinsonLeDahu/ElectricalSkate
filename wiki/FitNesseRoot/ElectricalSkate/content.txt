@@ -1,0 +1,16 @@
+!1 !-Electrical Skate-!
+!* Architechture
+!include -seamless <ElectricalSkate.PowerTrain.ArchI
+*!
+!* Systems
+!include -c <ElectricalSkate.RemoteControler
+!include -c <ElectricalSkate.PowerTrain
+*!
+!* Requirements
+[[Solution Requirements][.ElectricalSkate.SolReq]]
+*!
+!* Variable
+[[Definition][.ElectricalSkate.DefinitioN.SolutioN]]
+[[Data][.ElectricalSkate.DatA.SolutioN]]
+*!
+!contents
