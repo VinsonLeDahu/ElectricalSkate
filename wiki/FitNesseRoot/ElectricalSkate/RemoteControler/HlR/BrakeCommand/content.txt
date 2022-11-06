@@ -1,0 +1,12 @@
+!2 Traceability
+!* System Requirement
+[[!-SysReq.UserCommand-!][.ElectricalSkate.RemoteControler.SysReq.UserCommand]]
+*!
+!* Low Level Requirement
+[[Requirement][.ElectricalSkate.RemoteControler.LlR]]
+*!
+!* High Level Test
+[[Test][.ElectricalSkate.RemoteControler.HlT]]
+*!
+----
+On a new value of [[!style_red[!-BrakeDiscrete-!]][.ElectricalSkate.DatA.InpuT.BrakeDiscrete]], [[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]] shall send a [[!style_red[Commands]][.ElectricalSkate.DatA.SolutioN.CommanD]] set to [[!style_green[Brake Command]][.ElectricalSkate.DefinitioN.SolutioN.BrakeCommand]] through the bluetooth connection.

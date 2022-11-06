@@ -5,3 +5,4 @@
 ----
 [[!style_green[tes]][.ElectricalSkate.DefinitioN]]
 [[!style_red[tes]][.ElectricalSkate.DatA]]
+[[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]]

@@ -1,0 +1,9 @@
+ * '''Description''' : Command sent by [[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]] to [[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]]
+ * '''Type''' : Array of bytes
+
+|'''Index'''|'''Length in byte'''|'''Description'''|
+|0          |1                   |Header           |
+|1          |1                   |Type of message  |
+|2          |N                   |Data             |
+|2 + N      |1                   |Checksum         |
+

@@ -11,3 +11,4 @@
 ----
 [[!style_green[Definition]][.ElectricalSkate.DefinitioN]]
 [[!style_red[Data]][.ElectricalSkate.DatA]]
+[[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]]

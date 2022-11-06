@@ -1,0 +1,2 @@
+ * '''Description''' : GPIO linked to the ''brake'' interuptor 
+ * '''Type''' : Boolean

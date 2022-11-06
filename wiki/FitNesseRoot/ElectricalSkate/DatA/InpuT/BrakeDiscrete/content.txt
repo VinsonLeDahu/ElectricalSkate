@@ -1,0 +1,3 @@
+ * '''Description''' : GPIO linked to the ''brake'' interuptor 
+ * '''Type''' : Enumerate
+ * '''Value''' : {''High'', ''Low''} 

@@ -3,7 +3,6 @@
 [[Requirement][.ElectricalSkate.RemoteControler.SysReq]]
 *!
 ----
-[[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]]
-[[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]]
+[[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]] and [[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]] shall initialize a Bluetooth connexion.
 [[!style_green[Definition]][.ElectricalSkate.DefinitioN]]
 [[!style_red[Data]][.ElectricalSkate.DatA]]

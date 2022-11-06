@@ -1,0 +1,10 @@
+!2 Traceability
+!* System Requirement
+[[!-RemoteControler.SysReq.UserCommand-!][.ElectricalSkate.RemoteControler.SysReq.UserCommand]]
+*!
+----
+[[!style_orange[!-PowerTrain-!]][.ElectricalSkate.PowerTrain]] shall deal the [[!style_red[Commands]][.ElectricalSkate.DatA.SolutioN.CommanD]] sent by the [[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]].
+
+[[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]] can send :
+ * [[!style_green[Brake Command]][.ElectricalSkate.DefinitioN.SolutioN.BrakeCommand]]
+ * [[!style_green[Motor Command]][.ElectricalSkate.DefinitioN.SolutioN.MotorCommand]]

@@ -1,0 +1,12 @@
+!2 Traceability
+!* Solution Requirement
+[[!-SolReq.UserCommand-!][.ElectricalSkate.SolReq.UserCommand]]
+*!
+!* High Level Requirement
+[[!-HlR.BrakeCommand-!][.ElectricalSkate.RemoteControler.HlR.BrakeCommand]]
+[[!-HlR.MotorCommand-!][.ElectricalSkate.RemoteControler.HlR.MotorCommand]]
+*!
+----
+[[!style_orange[!-RemoteControler-!]][.ElectricalSkate.RemoteControler]] shall send the following [[!style_red[Commands]][.ElectricalSkate.DatA.SolutioN.CommanD]] through the bluetooth connection.
+ * [[!style_green[Brake Command]][.ElectricalSkate.DefinitioN.SolutioN.BrakeCommand]]
+ * [[!style_green[Motor Command]][.ElectricalSkate.DefinitioN.SolutioN.MotorCommand]]
